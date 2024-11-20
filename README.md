@@ -7,4 +7,4 @@
 
 ---
 
-### В бане до 6 ноября
+### Python Middle Developer
